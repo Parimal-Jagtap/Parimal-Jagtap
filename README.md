@@ -8,6 +8,15 @@
 - 📋 Experienced in **Agile/Scrum** — sprint planning, refinement, retrospectives
 - 📢 Currently serving notice period · **Open to new opportunities**
 
+## 📁 Featured Repositories
+| Repo | Stack | Domain |
+|---|---|---|
+| [playwright-insurance-ui-automation](https://github.com/Parimal-Jagtap/playwright-insurance-ui-automation) | Playwright · TypeScript | Insurance |
+| [selenium-java-testng-bdd-banking](https://github.com/Parimal-Jagtap/selenium-java-testng-bdd-banking) | Selenium · Java · BDD | Banking |
+| [appium-mobile-automation](https://github.com/Parimal-Jagtap/appium-mobile-automation) | Appium · Java | Mobile |
+| [cypress-ecommerce-automation](https://github.com/Parimal-Jagtap/cypress-ecommerce-automation) | Cypress · JavaScript | E-commerce |
+| [rest-assured-api-automation](https://github.com/Parimal-Jagtap/rest-assured-api-automation) | REST Assured · Java | API |
+
 ## 🛠️ Tech Stack
 
 ### Test Automation
