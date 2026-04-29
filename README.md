@@ -31,6 +31,11 @@
 
 ### Test Automation
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![CI](https://github.com/Parimal-Jagtap/playwright-insurance-ui-automation/workflows/Playwright%20Tests%20CI/badge.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-v1.44-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
